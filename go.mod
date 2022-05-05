@@ -12,7 +12,7 @@ require (
 	github.com/digitalocean/go-qemu v0.0.0-20210326154740-ac9e0b687001
 	github.com/diskfs/go-diskfs v1.2.0
 	github.com/docker/go-units v0.4.0
-	github.com/elastic/go-libaudit/v2 v2.2.0
+	github.com/elastic/go-libaudit/v2 v2.3.0
 	github.com/google/go-cmp v0.5.6
 	github.com/gorilla/mux v1.8.0
 	github.com/hashicorp/go-multierror v1.1.1
@@ -49,6 +49,8 @@ require (
 	github.com/pkg/sftp v1.13.3 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
+	go.uber.org/atomic v1.7.0 // indirect
+	go.uber.org/multierr v1.7.0 // indirect
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5 // indirect
 	golang.org/x/mod v0.5.0 // indirect
 	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d // indirect
